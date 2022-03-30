@@ -13,3 +13,8 @@ alcohol_percentage = 5.60
 flower_has_thorns = true
 dog_is_spayed = false
 beer_is_domestic = true
+
+
+flower = "sunflower"
+beers_drank = 12
+flower_has_thorns = false
